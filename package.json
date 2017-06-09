@@ -1,0 +1,14 @@
+{
+  "name": "zz",
+  "version": "1.0.0",
+  "description": "zz",
+  "main": "index.js",
+  "scripts": {
+    "test": "zz"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.0.2"
+  }
+}
